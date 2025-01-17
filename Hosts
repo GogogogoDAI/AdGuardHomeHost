@@ -393,7 +393,7 @@
 ||docker.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||docker.io^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||docker.io^$dnstype=AAAA,dnsrewrite=REFUSED
-||linux.do^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
+||##linux.do^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||dl.google.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||debian.org^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||docker.io^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
