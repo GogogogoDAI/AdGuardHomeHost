@@ -324,7 +324,6 @@
 ||ftp.fau.de^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||maps.gstatic.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||gstatic.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
-||Github.com^$dnstype=~A
 @@||supl.google.com^$important
 @@||semanticlocation-pa.googleapis.com^$important
 @@||userlocation.googleapis.com^$important
