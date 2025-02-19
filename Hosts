@@ -206,7 +206,6 @@
 @@||alt7-mtalk.google.com^$dnstype=A
 ||joinmastodon.org^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||resilio.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
-||objects.githubusercontent.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||telegram-install.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 @@||mtalk.google.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||ip138.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
@@ -397,7 +396,6 @@
 ||debian.org^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||docker.io^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||docker.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
-||raw.githubusercontent.com^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||flashboot.ru^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||freedesktop.org^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
 ||debian.org^$client=10.10.0.0/24,dnsrewrite=NOERROR;A;10.10.0.10,dnstype=A
